@@ -1,7 +1,7 @@
 <h1 >Two D Arrays💢</h1>
 
-This is a java wrriten program where 
-Input the value of X and output the value of x in [rows] and [columns].
+This is a java wrriten program where the user
+Input the value of X and the program output value of x in [rows] and [columns].
 
 <h3>Java Program Steps: </h3>
 
